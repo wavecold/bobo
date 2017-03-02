@@ -1,17 +1,17 @@
-title:            hacke2's blog
-description:      hacke2的前端技术博客,分享自己的技术心得,积累前段技能,汇聚前端之路的点点滴滴。
-disqus_shortname: hacke2
+title:            bobo blog
+description:      bobo的前端技术博客,分享自己的技术心得,积累前段技能,汇聚前端之路的点点滴滴。
+disqus_shortname: bobo
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.hacke2.cn
+url:              https://nmyb.github.io/bobo/
 
 # Owner/author information
 owner:
   name:           hacke2
   avatar:         wxl-photo2.jpg
   bio:            "梦想还是要有的，万一实现了呢？"
-  email:          hacke2@qq.com
+  email:          15734742257@163.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -40,10 +40,10 @@ links:
 #  - title: Theme Setup
 #    url: /theme-setup
   - title: Works
-    url: http://www.hacke2.cn/works
+    url: https://nmyb.github.io/bobo/
     external: true
 #  - title: GitHub
-#    url: https://github.com/hacke2
+#    url: https://nmyb.github.io/bobo/
 #    external: true
     
 
