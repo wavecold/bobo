@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+个人前端博客
+----------
 
-You can use the [editor on GitHub](https://github.com/nmyb/yangbo.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [点此访问 www.hacke2.cn](http://www.hacke2.cn)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本博客是基于[hpstr jekyll]("https://github.com/hacke2/hpstr-jekyll-theme)而搭建的个人博客，在原有强大的功能上，做了如下修改：
 
-### Markdown
+* 将google cdn换成 baidu cdn 原因你懂的
+* 去掉分享到twitter、facebook等国外社区，加入百度分享
+* 加入百度站长助手，方便您的统计
+* disqus评论
+* Read More功能，不想像以前一样文章全显示出来
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您想快速搭建和我一样属于自己的博客系统，请参阅：
 
-```markdown
-Syntax highlighted code block
+[30秒创建Github Page](http://www.hacke2.cn/create-github-page/)
 
-# Header 1
-## Header 2
-### Header 3
+目前待优化事项：
 
-- Bulleted
-- List
+* 合并资源（JS,CSS）
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmyb/yangbo.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
