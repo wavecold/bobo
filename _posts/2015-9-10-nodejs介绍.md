@@ -2,7 +2,7 @@
 layout: post
 title: nodejs基础介绍
 description: "Node.js是一个基于Chrome V8引擎的JavaScript运行环境，其使用了一个事件驱动、非阻塞式 I/O的模型，使其轻量又高效。
-tags: [nodejs]
+tags: [nodejs, nodejs]
 image:
   background: witewall_3.png
 comments: true
